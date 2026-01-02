@@ -1,0 +1,21 @@
+Description:
+A simple weather forecasting web application built using HTML, CSS, and JavaScript.
+It uses a weather API to fetch real-time weather data for any city and displays details like temperature, humidity, and wind speed.
+The app also uses AI-based logic to improve data handling and user experience.
+
+
+Technologies Used:
+#HTML
+#CSS
+#JavaScript
+#Weather API
+#AI-powered logic for data processing
+
+
+Features:
+#Search weather by city name
+#Real-time weather updates
+#Displays temperature, humidity, and wind speed
+#Dynamic weather icons based on conditions
+#Responsive and modern UI
+#Fast and lightweight
